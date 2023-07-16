@@ -1,1 +1,1 @@
-# react-admin-ui
+Responsive React admin template design.
